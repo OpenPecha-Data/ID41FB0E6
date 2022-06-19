@@ -1,0 +1,39 @@
+id: ID41FB0E6
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T13:22:10.868012'
+last_modified: '2022-06-19T13:22:10.868075'
+parser: null
+source_metadata:
+  title: Hagiography of rGyal ba brag phug pa (1277-1346/50?); Lamdre Lobshe, vol.
+    ka, title no. 16, from the chronological biographies of the Lamdre lineage masters
+  author: རི་ཁྲོད་པ་བློ་བྲོས་བརྟན་པ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-08-19);
+    converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/367
+  bases:
+    c3e1:
+      title: Hagiography of rGyal ba brag phug pa (1277-1346/50?); Lamdre Lobshe,
+        vol. ka, title no. 16, from the chronological biographies of the Lamdre lineage
+        masters
+      order: 1
+      base_file: c3e1.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
